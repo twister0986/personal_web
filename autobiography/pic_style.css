@@ -1,0 +1,44 @@
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.image-container img {
+    max-width: 110%;
+	max-height: 70%;
+    display: block;
+    margin: 0 auto;
+}
+
+.image-container-two img {
+    max-width: 95%;
+	max-height: 75%;
+    display: block;
+    margin: 0 auto;
+}
+
+.image-container p {
+    text-align: center;
+	font-size: 23px;
+	font-family:Arial Narrow;
+	font-weight:bold;
+}
+
+.title_text_attribute {
+	font-weight:bold;
+	font-size: 28px;
+}
+
+.text_attribute {
+	font-size:20px;
+    text-indent:2em;
+}
+
+.pic_title {
+	display:flex;
+	font-weight:bold;
+	font-size: 24px;
+	justify-content: center;
+	color:#000000;
+}
